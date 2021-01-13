@@ -60,5 +60,23 @@ Minimum Distance from 4 to 3 = 6<br>
 Minimum Distance from 4 to 4 = 0<br>
 
 ## Ford-Fulkerson
+O algoritmo recebe como entrada o número de vértices (v), o número de arestas (e), o vértice de saída e o vértice de chegada. Seguido da descrição das e arestas cada uma contendo 3 entradas: vértice de saída, vértice de entrada e peso.
+
+#### Exemplo utilizado no input:<br>
+![image](https://user-images.githubusercontent.com/34218434/104391382-8a251d00-551e-11eb-8b74-474fb29be5b8.png)
+
+#### Saída: 
+Max flow from 0 to 5 = 23<br>
 
 ## Bellman-Ford
+O algoritmo recebe como entrada o número de vértices (v), o número de arestas (e), o vértice de saída. Seguido da descrição das e arestas cada uma contendo 3 entradas: vértice de saída, vértice de entrada e peso.
+
+#### Exemplo utilizado no input:<br>
+![image](https://user-images.githubusercontent.com/34218434/104392034-00764f00-5520-11eb-8d66-36a09cf78fea.png)
+
+#### Saída: 
+Distance from 0 to 0 = 0<br>
+Distance from 0 to 1 = -1<br>
+Distance from 0 to 2 = 2<br>
+Distance from 0 to 3 = -2<br>
+Distance from 0 to 4 = 1<br>
