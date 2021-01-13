@@ -1,4 +1,6 @@
 # AlgoritmosGrafos
+##### Por Cauê Bittencourt e Valdir de Souza Junior
+
 ### Olá a todos 👋, Este repositório contém os quatro algoritmos solicitados para a matéria "Teoria dos Grafos" ministrada pelo professor Rian no PLE.<br>
 * [Djikstra](#djikstra)
 * [Floyd-Warshall](floyd-warshall)
